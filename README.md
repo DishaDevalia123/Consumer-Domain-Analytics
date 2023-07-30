@@ -1,4 +1,4 @@
-# Consumer-Domain-Analytics-
+# Consumer-Domain-Analytics
 This project aims to provide valuable insights to top-level management in the consumer goods domain using Tableau, SQL, and PowerPoint presentation. The project involves analyzing the data from the "gdb023" database to derive meaningful business intelligence.
 Visualizations contained in the presentation are created using Tableau.
 
